@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes" >
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+        <item>Central</item>
+
+    </string-array>
+    <string-array name="classes2" >
+        <item>Yet to meet the highest authority</item>
+        <item>In talks - Negative</item>
+        <item>In talks - Positive</item>
+        <item>Talks closed - MOU signed</item>
+        <item>Talks closed - Negative</item>
+        <item>Nothing can be said</item>
+
+        </string-array>
+</resources>
